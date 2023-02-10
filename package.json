@@ -16,5 +16,8 @@
     "url": "https://github.com/tttxx5511-dev/qr_shower/issues"
   },
   "homepage": "https://github.com/tttxx5511-dev/qr_shower#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "qrcode": "^1.5.1"
+  }
 }
